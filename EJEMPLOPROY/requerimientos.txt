@@ -1,6 +1,0 @@
-Veterinaria
-	😊 Usuarios
-	😊 Registro de propietarios y mascotas
-	😊 Hitorial clínico de pacientes
-	😊 Citas
-	😢 Medicamentos y material usado
